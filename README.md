@@ -2,7 +2,7 @@
 
 The RA Warehouse dbt framework is a set of data models, data transformations and data warehousing design patterns for use with dbt ("Data Build Tool"), an open-source data transformation and orchestration toolkit we use as the core set of models and transformations on all of our client projects.
 
-The RA Warehouse dbt framework:
+The RA Warehouse dbt framework::
 
 * Contains pre-built, standardised data source models for popular SaaS applications (Hubspot, Xero, Facebook Ads, Segment etc)
 * Supports Stitch, Fivetran and Segment data pipeline services
