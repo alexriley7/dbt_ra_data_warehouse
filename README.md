@@ -18,12 +18,6 @@ We've open-sourced this framework to share our learnings and experience with the
 
 * [What's New in the v1.2.0 release](whats_new_in_v_1_2_0.md)
 
-You can read more about our work with dbt, Google BigQuery, Snowflake and other modern data stack technologies on our website and blog:
-
-* [Rittman Analytics](https://rittmananalytics.com/home-index) homepage
-* [Data Centralization](https://rittmananalytics.com/data-centralization) consulting packages
-* [Rittman Analytics Blog dbt Posts](https://rittmananalytics.com/blog/tag/dbt)
-* [Contact Us](https://rittmananalytics.com/home-index/#about-us)
 
 ## Why Did We Create This Framework?
 
